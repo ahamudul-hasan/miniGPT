@@ -203,6 +203,7 @@ At each step, the model outputs a probability distribution over the entire vocab
    Repeat for N epochs / steps
 ```
 
+---
 The model is trained to minimize the negative log-likelihood of the correct next token at every position in the sequence:
 
 $$
