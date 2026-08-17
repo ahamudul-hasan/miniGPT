@@ -204,13 +204,6 @@ At each step, the model outputs a probability distribution over the entire vocab
 ```
 
 ---
-The model is trained to minimize the negative log-likelihood of the correct next token at every position in the sequence:
-
-$$
-\mathcal{L} = -\frac{1}{T}\sum_{t=1}^{T} \log P(x_t \mid x_{<t})
-$$
-
----
 
 ## ✍️ Text Generation Pipeline
 
