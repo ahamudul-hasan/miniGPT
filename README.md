@@ -1,4 +1,4 @@
-# MiniGPT
+# miniGPT
 
 > Understanding Transformers by building one, line by line — not just calling an API.
 
