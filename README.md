@@ -1,4 +1,4 @@
-# 🧠 MiniGPT — A GPT-Style Language Model Built From Scratch
+# MiniGPT
 
 > Understanding Transformers by building one, line by line — not just calling an API.
 
