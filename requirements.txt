@@ -1,4 +1,5 @@
 --index-url https://download.pytorch.org/whl/cu126
+# Python 3.10.11
 
 filelock==3.32.3
 fsspec==2026.7.0
@@ -13,3 +14,4 @@ torch==2.13.0+cu126
 torchaudio==2.11.0
 torchvision==0.28.0
 typing_extensions==4.16.0
+
